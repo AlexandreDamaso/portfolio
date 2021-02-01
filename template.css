@@ -1,0 +1,10 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabecalho {
+    display: flex;
+}
+.menu ul{
+    display: flex;
+    justfy-content: center;
+}
